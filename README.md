@@ -1,5 +1,5 @@
 # FantasyBasket
-This project was developed in the context of the International Summer School for Humans & Technologies at [Chemnitz University of Technology](https://www.tu-chemnitz.de/index.html.en).
+This project was developed in the context of the [International Summer School for Humans & Technologies](https://sites.google.com/view/humanstechnologies/home) at [Chemnitz University of Technology](https://www.tu-chemnitz.de/index.html.en).
 
 It is a simple game with these mechanics:
 * Immersive Virtual Reality
