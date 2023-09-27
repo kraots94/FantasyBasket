@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5072708721490577795
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 958055332121687984, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.502
+      objectReference: {fileID: 0}
+    - target: {fileID: 958055332121687984, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958055332121687984, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958055332121687984, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 958055332121687984, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958055332121687984, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958055332121687984, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958055332121687984, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958055332121687984, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958055332121687984, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1443352987736027415, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: m_Name
+      value: BoltRock Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4899530339120628345, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
+      propertyPath: rockSO
+      value: 
+      objectReference: {fileID: 11400000, guid: c05cf63dd90123d4a8825e300f0186d5, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 58f0ccf3eee1a4145b0d116c1cde66e8, type: 3}
