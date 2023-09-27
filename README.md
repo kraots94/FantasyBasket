@@ -5,6 +5,5 @@ It is a simple game with these mechanics:
 * Immersive Virtual Reality
 * Throw rocks in volcanos
 * Different rock elements (Ice, Earth, Fire, Bolt) 
-* Rocks spawn in front of the player
 * Gain points when appropriate rock element is thrown to a volcano
 * Simple UI showing the current points, combo counter and error counter
